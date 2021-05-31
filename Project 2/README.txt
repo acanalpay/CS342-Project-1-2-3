@@ -1,2 +1,1 @@
-Abdullah Can Alpay - 21702686
-
+Multithread scheduling algorithm
